@@ -1,9 +1,8 @@
-# Site de aniversário da Aline
+# ALINE - Render pronto
 
-Projeto pronto para subir no Render.
+Render Static Site:
+- Build Command: vazio
+- Publish Directory: .
 
-## Render
-- Build Command: `npm install`
-- Start Command: `npm start`
-
-A música foi corrigida para `assets/musica.m4a`. Ela toca depois do clique em **Abrir sua surpresa**.
+Arquivos corrigidos para usar caminhos assets/foto-1.jpg etc.
+Música em assets/musica.mp3 ou assets/musica.m4a.

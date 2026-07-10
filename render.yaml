@@ -1,6 +1,5 @@
 services:
   - type: web
     name: aline-aniversario
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
+    env: static
+    staticPublishPath: .
